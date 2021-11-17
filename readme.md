@@ -1,5 +1,7 @@
 ### Usa la API de Rick and Morty para probar tus habilidades 🥼
 
+https://www.notion.so/Rick-and-Morty-Challenge-84a1b794dc09429fb3178c2a24e7c217
+
 Tienes que consultar todos los `character`, `locations` y `episodes` de [https://rickandmortyapi.com/](https://rickandmortyapi.com/) e indicar:
 
 1. Char counter:
